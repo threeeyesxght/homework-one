@@ -1,1 +1,2 @@
 # homework-one
+<!-- I was able to consolidate a few lines of code in the css. I attempted to make buttons for the first three links in the list from lines 16-23 but I couldn't get the position right.  -->
